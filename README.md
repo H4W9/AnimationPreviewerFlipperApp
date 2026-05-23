@@ -2,7 +2,7 @@
 
 Browse and preview Flipper Zero dolphin animations directly on the device. Opens at `/ext/dolphin` by default — navigate anywhere on the SD card to find animations.
 
-## Controls
+# Controls
 
 ## Browser
 | Button | Action |
@@ -20,7 +20,7 @@ Browse and preview Flipper Zero dolphin animations directly on the device. Opens
 | Back (short) | Return to browser |
 | Back (long) | Exit app |
 
-## How it works
+# How it works
 
 Uses the Flipper's built-in file browser. Navigate into an animation folder and tap `meta.txt` to play it. Back from the player returns to the same location in the browser.
 
