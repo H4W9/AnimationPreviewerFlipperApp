@@ -4,14 +4,14 @@ Browse and preview Flipper Zero dolphin animations directly on the device. Opens
 
 ## Controls
 
-### Browser
+## Browser
 | Button | Action |
 |--------|--------|
 | ↑ / ↓ | Scroll |
 | OK | Enter folder / play animation |
 | Back | Go up / exit app |
 
-### Player
+## Player
 | Button | Action |
 |--------|--------|
 | OK | Play / Pause |
